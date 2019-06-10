@@ -5,7 +5,7 @@
 
 #### *insert link to doi or citation*
 ##  Significance of a Polygenic Risk Score:
-Assuming there is a family in which most individuals display a particular phenotypic trait derived from a specific disease diagnosis (**add any specifications of which disease(s) we will be focusing on**), our pipeline aims to target the unresolved and provide those who are inquiring with a polygenic risk score which would demonstrate how well "protected" the individual(s) in question are from acquiring the phenotypic trait.
+Assuming there is a family in which most individuals display a particular phenotypic trait derived from a specific disease diagnosis **(add any specifications of which disease(s) we will be focusing on)**, our pipeline aims to target the unresolved and provide those who are inquiring with a polygenic risk score which would demonstrate how well "protected" the individual(s) in question are from acquiring the phenotypic trait.
 
 
 ##   What's the problem and Why should we solve it?
@@ -51,11 +51,11 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
    + *source code github documentation: https://github.com/openSNP/snpr*
    + **_implementation of opensnp in our pipeline_**:
 - **modules imported in code**
-    +**import click**: a library with necessary software utilized in this pipeline
-    +**import json**: JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
-    +**import pdb**:
-    +**import sys**:
-    +**possibly dbsnip**???:
+    + **import click**: a library with necessary software utilized in this pipeline
+    + **import json**: JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
+    + **import pdb**:
+    + **import sys**:
+    + **possibly dbsnip**???:
 
 
 
