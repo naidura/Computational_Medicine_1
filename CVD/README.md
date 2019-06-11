@@ -54,14 +54,14 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
    + *source code github documentation: https://github.com/openSNP/snpr*
    + **_implementation of opensnp in our pipeline_**:
 
-- [docker](https://www.docker.com/): leading software container platform.
+- [Docker](https://www.docker.com/): leading software container platform.
 
 
 
 
 - **modules imported in code**
     + **import click**: a library with necessary software utilized in this pipeline
-    + **import**[json](https://docs.python.org/3/library/json.html): JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
+    + **import** [json](https://docs.python.org/3/library/json.html): JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
     + **import pdb**: an interactive source code debugger for Python programs.
     + **import sys**: sets system-specific parameters and functions. 
     + **dbsnp**: A public-domain archive for human single nucleotide variations, microsatellites, and small-scale insertions and deletion. 
