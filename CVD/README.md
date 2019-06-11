@@ -55,7 +55,7 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
     + **import json**: JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
     + **import pdb**: an interactive source code debugger for Python programs.
     + **import sys**: sets system-specific parameters and functions. 
-    + **possibly dbsnip**???:
+    + **dbsnp**: A public-domain archive for human single nucleotide variations, microsatellites, and small-scale insertions and deletion. 
 
 
 
