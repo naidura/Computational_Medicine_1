@@ -34,22 +34,22 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
 
 
 ## Dependencies: 
-- [ Alternative ](https://www.ebi.ac.uk/gwas/api/search/downloads/alternative): for gathering data from the gwas catalog database.
+- [Alternative](https://www.ebi.ac.uk/gwas/api/search/downloads/alternative): for gathering data from the gwas catalog database.
    + *source citation: https://www.ebi.ac.uk/gwas/docs/file-downloads*
    + **_implementation of alternative gwas catalog database_**:
-- [ziptools](https://docs.python.org/3.7/library/zipfile.html): for unzipping zipfile file types.
+- [Ziptools](https://docs.python.org/3.7/library/zipfile.html): for unzipping zipfile file types.
    + *Python 3.7.3 documentation*
    + *The ZIP file format is a common archive and compresssion standard.*
    + *This updated module provides tools to create, read, write, append and list a ZIP file.* 
    + **_implemention of ziptools in our pipeline_**:
 - **python code used to filter results under the 23andme and ancestry categorical information.**
-- [opensnp](https://opensnp.org/): for gathering data from families with particular phenotypes.
+- [Opensnp](https://opensnp.org/): for gathering data from families with particular phenotypes.
    + *allows for customers to view/share their phenotypes from a vast openSNP database.*
    + *opensnp works by having customers upload their raw genotyping or exome data (from 23andMe, ancestry.com, FamilyTreeDNA)*
    + *source code github documentation: https://github.com/openSNP/snpr*
    + **_implementation of opensnp in our pipeline_**:
 
-- **docker**: 
+- [docker](https://www.docker.com/): leading software container platform.
 
 
 
