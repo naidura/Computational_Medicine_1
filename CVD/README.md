@@ -53,6 +53,8 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
    + *opensnp works by having customers upload their raw genotyping or exome data (from 23andMe, ancestry.com, FamilyTreeDNA)*
    + [github documentation](https://github.com/openSNP/snpr)
    + **_implementation of opensnp in our pipeline_**:
+   
+- [Dbsnp](https://www.ncbi.nlm.nih.gov/snp/): A public-domain archive for human single nucleotide variations, microsatellites, and small-scale insertions and deletion. 
 
 - [Docker](https://www.docker.com/): leading software container platform.
 
@@ -64,7 +66,6 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
     + **import** [json](https://docs.python.org/3/library/json.html): JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
     + **import** [pdb](https://docs.python.org/3/library/pdb.html): an interactive source code debugger for Python programs.
     + **import** [sys](https://github.com/naidura/Computational_Medicine_1/edit/master/CVD/README.md): sets system-specific parameters and functions. 
-    + **dbsnp**: A public-domain archive for human single nucleotide variations, microsatellites, and small-scale insertions and deletion. 
 
 
 
