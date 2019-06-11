@@ -33,8 +33,8 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
 
 
 
-## Software(s) used: 
-- **alternative**: (for gathering data from the gwas catalog database)
+## Dependencies: 
+- **[alternative]**:(https://www.ebi.ac.uk/gwas/api/search/downloads/alternative) for gathering data from the gwas catalog database.
    + *source citation: https://www.ebi.ac.uk/gwas/docs/file-downloads*
    + *link to process the gwas catalog: https://www.ebi.ac.uk/gwas/api/search/downloads/alternative*
    + **_implementation of alternative gwas catalog database_**:
@@ -50,6 +50,12 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
    + *source citation: https://opensnp.org/*
    + *source code github documentation: https://github.com/openSNP/snpr*
    + **_implementation of opensnp in our pipeline_**:
+
+- **docker**: 
+
+
+
+
 - **modules imported in code**
     + **import click**: a library with necessary software utilized in this pipeline
     + **import json**: JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
