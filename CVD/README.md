@@ -47,7 +47,6 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
    + *The ZIP file format is a common archive and compresssion standard.*
    + *This updated module provides tools to create, read, write, append and list a ZIP file.* 
    + **_implementation of ziptools in our pipeline_**:
-- **python code used to filter results under the 23andme and ancestry categorical information.**
 - [Opensnp](https://opensnp.org/): for gathering data from families with particular phenotypes.
    + *allows for customers to view/share their phenotypes from a vast openSNP database.*
    + *opensnp works by having customers upload their raw genotyping or exome data (from 23andMe, ancestry.com, FamilyTreeDNA)*
@@ -59,8 +58,7 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
 - [Docker](https://www.docker.com/): leading software container platform.
 
 
-
-
+- **python code used to filter results under the 23andme and ancestry categorical information.**
 - **modules imported in code**
     + **import click**: a library with necessary software utilized in this pipeline
     + **import** [json](https://docs.python.org/3/library/json.html): JSON handles data flow in a file by converting Python object(s) to respective JSON object files.
