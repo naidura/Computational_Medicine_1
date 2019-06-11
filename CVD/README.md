@@ -51,7 +51,7 @@ When multiple individuals in a family have acquired the same phenotypic trait fr
 - [Opensnp](https://opensnp.org/): for gathering data from families with particular phenotypes.
    + *allows for customers to view/share their phenotypes from a vast openSNP database.*
    + *opensnp works by having customers upload their raw genotyping or exome data (from 23andMe, ancestry.com, FamilyTreeDNA)*
-   + *source code github documentation: https://github.com/openSNP/snpr*
+   + [github documentation](https://github.com/openSNP/snpr)
    + **_implementation of opensnp in our pipeline_**:
 
 - [Docker](https://www.docker.com/): leading software container platform.
